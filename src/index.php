@@ -24,7 +24,7 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
-
+            <h3>This was made by Will Davis</h3>
             </div>
         </div>
 
